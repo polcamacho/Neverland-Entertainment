@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Neverland.unity
+    path: Assets/Scenes/Neverland.unity
     guid: 0578764e5ad8fe74e86dbd93e867efc4
   m_configObjects: {}
