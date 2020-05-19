@@ -11,7 +11,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 780d0af8c541b824c8dee3eb858c3968, type: 2}
+      objectReference: {fileID: 2100000, guid: c685ea4a5cebb564696d0d1b2642bc14, type: 2}
     - target: {fileID: 3529696540864522422, guid: 6a8d59b3802652742a095bcab62a3f34,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -75,7 +75,7 @@ PrefabInstance:
     - target: {fileID: 8899189996389382123, guid: 6a8d59b3802652742a095bcab62a3f34,
         type: 3}
       propertyPath: m_Name
-      value: ShortWall
+      value: ShortWall Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a8d59b3802652742a095bcab62a3f34, type: 3}
