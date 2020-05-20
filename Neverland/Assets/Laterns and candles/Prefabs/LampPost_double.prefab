@@ -209,6 +209,7 @@ GameObject:
   - component: {fileID: 4361623287756760}
   - component: {fileID: 33890834366625500}
   - component: {fileID: 23245079885859258}
+  - component: {fileID: 8784234569993966203}
   m_Layer: 0
   m_Name: LampPost_double
   m_TagString: Untagged
@@ -223,9 +224,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1269430370410058}
-  m_LocalRotation: {x: -0.000000081460335, y: 0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 11.003685, y: 2.416, z: 7.985}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4872, y: 1.4872, z: 1.4872}
   m_Children:
   - {fileID: 4099705087226302}
   - {fileID: 4334593667792958}
@@ -279,6 +280,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &8784234569993966203
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269430370410058}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: e501831ad59a85f4bb7629bf22c658c8, type: 3}
 --- !u!1 &1271217471005822
 GameObject:
   m_ObjectHideFlags: 0
