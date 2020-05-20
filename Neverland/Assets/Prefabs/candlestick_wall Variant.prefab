@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 217086604}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.07678235, y: 0.70399857, z: 1.2180177}
+  m_LocalPosition: {x: -0.08, y: 0.70399857, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8978213330821329198}
@@ -44,7 +44,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 0.8994038, b: 0.6933962, a: 1}
   m_Intensity: 5
-  m_Range: 4.4763184
+  m_Range: 6
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -101,19 +101,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d1c8331cd64e7684298abc6c6ee000e3, type: 3}
       propertyPath: m_Name
-      value: candlestick_wall Variant
+      value: candlestick_wall (71)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1c8331cd64e7684298abc6c6ee000e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1420.988
+      value: -28.056
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1c8331cd64e7684298abc6c6ee000e3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 58.916
+      value: 3.874
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1c8331cd64e7684298abc6c6ee000e3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 275.45123
+      value: 12.58
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d1c8331cd64e7684298abc6c6ee000e3, type: 3}
       propertyPath: m_LocalRotation.x
