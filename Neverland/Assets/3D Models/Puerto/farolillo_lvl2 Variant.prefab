@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6539509073534573636
 Transform:
@@ -82,7 +82,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -103,6 +103,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: farolillo_lvl2
+      objectReference: {fileID: 0}
+    - target: {fileID: 255398856443561414, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 679840965695590659, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3910988260310334091, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4916797613309837574, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5610384686559122644, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6738229210301768583, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965373056474763194, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7427960043725631670, guid: 16d340eb4c4929540b153a2f3c7aa1b7,
         type: 3}
