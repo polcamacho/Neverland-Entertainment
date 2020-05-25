@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 234
+  controlID: 172
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 235
+  controlID: 173
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 236
+  controlID: 174
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,7 +353,7 @@ MonoBehaviour:
     height: 330
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: bag
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -365,20 +365,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Medieval Structure Kit/Prefabs/Buildings
+    - Assets/Medieval Structure Kit/Textures/Metal
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Medieval Structure Kit/Prefabs/Buildings
+  - Assets/Medieval Structure Kit/Textures/Metal
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Marc\Documents\GitHub\Neverland-Entertainment\Neverland
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 522}
-    m_SelectedIDs: 54060100
-    m_LastClickedID: 67156
-    m_ExpandedIDs: 00000000d8040100da040100dc040100de040100e0040100e2040100e4040100e6040100e8040100ea040100ec040100ee040100f0040100f2040100f4040100f6040100f8040100fa040100fc040100fe0401000005010008060100160601004a060100
+    scrollPos: {x: 0, y: 542}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000680501006a0501006c0501006e05010070050100720501007405010076050100780501007a0501007c0501007e05010080050100820501008405010086050100880501008a0501008c0501008e05010090050100da060100e60601001e07010022070100740701007c070100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d8040100da040100dc040100de040100e0040100e2040100e4040100e6040100e8040100ea040100ec040100ee040100f0040100f2040100f4040100f6040100f8040100fa040100fc040100fe04010000050100
+    m_ExpandedIDs: 00000000680501006a0501006c0501006e05010070050100720501007405010076050100780501007a0501007c0501007e05010080050100820501008405010086050100880501008a0501008c0501008e05010090050100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -433,7 +433,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300001a090100587701000cb30100c4dd000090dd000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -528,24 +528,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 7638}
-      m_SelectedIDs: 6eb7f8ff
-      m_LastClickedID: -477330
-      m_ExpandedIDs: fa95f9ff6efbffff143a0000203b0000763b0000fe3b0000d2400000b2410000d24a0000f84d0000204e0000124f0000be4f0000cc4f0000e0500000ee5200002e5500004a560000
+      scrollPos: {x: 0, y: 4614}
+      m_SelectedIDs: 50e4f9ff
+      m_LastClickedID: -400304
+      m_ExpandedIDs: 3cebfaff6efbffff1e3b0000fc3b0000ca410000724e00001650000038510000585300009c550000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: FlamesParticleEffect (12)
+        m_OriginalName: FlamesParticleEffect (12)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -332996
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -591,9 +591,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1420.8638, y: 57.688107, z: 249.02931}
+    m_Target: {x: -1426.3228, y: 56.612946, z: 251.39255}
     speed: 2
-    m_Value: {x: -1420.8638, y: 57.688107, z: 249.02931}
+    m_Value: {x: -1426.3228, y: 56.612946, z: 251.39255}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -639,13 +639,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15344, y: -0.72105765, z: 0.16913651, w: 0.65416706}
+    m_Target: {x: 0.11109951, y: -0.67351747, z: 0.103454635, w: 0.7234246}
     speed: 2
-    m_Value: {x: 0.15661201, y: -0.74987507, z: 0.19139592, w: 0.6136185}
+    m_Value: {x: 0.11063202, y: -0.6767611, z: 0.10395277, w: 0.72038114}
   m_Size:
-    m_Target: 2.7544496
+    m_Target: 5.9759326
     speed: 2
-    m_Value: 2.4544497
+    m_Value: 5.6759324
   m_Ortho:
     m_Target: 0
     speed: 2
